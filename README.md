@@ -1,2 +1,2 @@
 # guess-map
-Map Quiz to guess name of region in a map
+Map Quiz to guess names of region in a map
